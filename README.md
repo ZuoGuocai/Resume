@@ -1,6 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
+
 
 ## Introduction
 
